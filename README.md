@@ -5,4 +5,4 @@ O gerador congruente linear gera sequências de números aleatórios com base no
 
 Com a escolha correta de parâmetros é possível gerar sequências arbitrariamente longas.
 
-Saiba mais em: 
+Saiba mais em: https://medium.com/@ataidegualberto.eng/%C3%A9-poss%C3%ADvel-gerar-n%C3%BAmeros-aleat%C3%B3rios-num-computador-7d10d1845839
